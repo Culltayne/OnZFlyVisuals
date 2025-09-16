@@ -1391,3 +1391,5 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.09.16-20.16.28:207][495]LogD3D12RHI: Compiled PathTracingMainRG for RTPSO in 27938.73 ms.
 [2025.09.16-20.16.30:454][762]LogD3D12RHI: Compiled PathTracingMainRG for RTPSO in 30187.24 ms.
 [2025.09.16-20.16.31:520][889]LogD3D12RHI: Compiled PathTracingMainRG for RTPSO in 31254.24 ms.
+[2025.09.16-20.16.35:139][320]LogD3D12RHI: Compiled PathTracingMainRG for RTPSO in 34874.23 ms.
+[2025.09.16-20.16.36:178][444]LogD3D12RHI: Compiled PathTracingMainRG for RTPSO in 35911.88 ms.
