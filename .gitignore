@@ -73,3 +73,36 @@ Plugins/**/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+*.log
+OnZFlyVisuals/Saved/SourceControl/UncontrolledChangelists.json
+OnZFlyVisuals/Saved/ShaderDebugInfo/PCD3D_SM6/WorldGridMaterial_b019937a1bd5f916/Default/DDCKey-Editor.txt
+OnZFlyVisuals/Saved/Logs/OnZFlyVisuals.log
+OnZFlyVisuals/Saved/Crashes/UECC-Windows-97D266CC4FA1129D0427A18C846ED49C_0000/UEMinidump.dmp
+OnZFlyVisuals/Saved/Crashes/UECC-Windows-97D266CC4FA1129D0427A18C846ED49C_0000/CrashReportClient.ini
+OnZFlyVisuals/Saved/Crashes/UECC-Windows-97D266CC4FA1129D0427A18C846ED49C_0000/CrashContext.runtime-xml
+OnZFlyVisuals/Saved/Config/WorldState/76098780.json
+OnZFlyVisuals/Saved/Config/WorldState/4247477625.json
+OnZFlyVisuals/Saved/Config/WorldState/1866090974.json
+OnZFlyVisuals/Saved/Config/WindowsEditor/Input.ini
+OnZFlyVisuals/Saved/Config/WindowsEditor/EditorPerProjectUserSettings.ini
+OnZFlyVisuals/Saved/Config/CrashReportClient/UECC-Windows-E35B9BA84A1855C7D17D0E8B15DFFD1D/CrashReportClient.ini
+OnZFlyVisuals/Saved/Config/CrashReportClient/UECC-Windows-BE4A3A5147CEE1DBB635C1A30DDD9EDC/CrashReportClient.ini
+OnZFlyVisuals/Saved/Config/CrashReportClient/UECC-Windows-97D266CC4FA1129D0427A18C846ED49C/CrashReportClient.ini
+OnZFlyVisuals/Saved/Config/CrashReportClient/UECC-Windows-8EE9A971437B0A0D27879F8342F01F55/CrashReportClient.ini
+OnZFlyVisuals/Saved/Config/CrashReportClient/UECC-Windows-2129EEC74A9244E9E474A9A61DA1A667/CrashReportClient.ini
+OnZFlyVisuals/Saved/Config/CrashReportClient/UECC-Windows-118FB91E4DE688582553008E56A2C1BA/CrashReportClient.ini
+OnZFlyVisuals/Saved/Config/ConsoleHistory.ini
+OnZFlyVisuals/Saved/AutoScreenshot.png
+OnZFlyVisuals/Saved/Autosaves/Game/Materials/PM_Logo_Auto3.uasset
+OnZFlyVisuals/Saved/Autosaves/Game/Maps/MainProject_Auto2.umap
+OnZFlyVisuals/Saved/Autosaves/Game/Maps/MainProject_Auto1.umap
+OnZFlyVisuals/Saved/Autosaves/Game/Maps/Brand_Auto3.umap
+OnZFlyVisuals/Saved/Autosaves/Game/Maps/Brand_Auto2.umap
+OnZFlyVisuals/Saved/Autosaves/Game/Maps/Brand_Auto1.umap
+OnZFlyVisuals/Saved/Autosaves/Game/Blueprints/BP_TexttoDMX_Auto3.uasset
+OnZFlyVisuals/Saved/AutoScreenshot.png
+OnZFlyVisuals/Saved/Config/CrashReportClient/UECC-Windows-118FB91E4DE688582553008E56A2C1BA/CrashReportClient.ini
+OnZFlyVisuals/Saved/Config/WindowsEditor/EditorPerProjectUserSettings.ini
+OnZFlyVisuals/Saved/Logs/OnZFlyVisuals.log
+OnZFlyVisuals/Saved/ShaderDebugInfo/PCD3D_SM6/WorldGridMaterial_b019937a1bd5f916/Default/DDCKey-Editor.txt
+OnZFlyVisuals/Saved/AutoScreenshot.png
